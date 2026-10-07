@@ -148,20 +148,30 @@ Dashboard pages:
 
 ## 8. Dashboard previews
 
-### Page 1 — Executive
-![Dashboard 1](dashboard-images/Dashboard%201%20Supermarket%20Retail%20Performance.jpg)
+## 8. Dashboard
 
-### Page 2 — Product and rating
-![Dashboard 2](dashboard-images/Dashboard%202%20Product%20Performance%20and%20Rating.jpg)
+Filters on every page: Date, City, Product Line, Customer Type, Payment Method.  
+Screenshots: `bi dashboard analysis images/`. Interactive file: `bi analysis/supermarket_retail.pbix`.
+
+### Page 1 — Executive overview
+KPI scorecards, revenue by month/city/product/payment, priority decisions.
+About 1,000 invoices and ~$323K revenue in the quarter. AOV ~$323, average rating ~6.97. February is the soft month on volume. Naypyitaw is only slightly ahead; do not redesign the store network from this sample.
+
+### Page 2 — Product performance and rating
+Revenue vs rating by product line, product × city matrix, rating watch list.
+Food and beverages is strong on money and rating. Home and lifestyle has meaningful sales but the weakest rating (~6.84). Start quality checks there (stock, wait time, returns) before any price cut. Do not delist Health and beauty only because revenue is lowest; gaps across lines are small.
 
 ### Page 3 — Customers and payments
-![Dashboard 3](dashboard-images/Dashboard%203%20Customers%20and%20Payments.jpg)
+Member vs Normal comparison, monthly revenue by customer type, payment mix by city.
+Member 501 vs Normal 499 invoices. Member AOV is only slightly higher. Both groups follow the same February dip, so treat February as store-wide demand, not a loyalty issue. Cash, Ewallet, and Credit card are all used in every city — keep all three tenders. No customer ID, so no retention model.
 
 ### Page 4 — Time and operations
-![Dashboard 4](dashboard-images/Dashboard%204%20Time%20and%20Operations.jpg)
+Revenue by hour, weekday vs weekend, day × time traffic grid.
+Revenue peaks around 19:00 and softens after 20:00. Cover 18:00–20:00 first. Weekdays drive total volume; weekends show higher AOV (~$339 vs ~$316). Do not compare weekend vs weekday on revenue alone.
 
 ### Page 5 — Data quality and limits
-![Dashboard 5](dashboard-images/Dashboard%205%20Data%20Quality%20and%20Limits.jpg)
+Quality checklist, margin warning, dataset limits.
+1,000 rows, 0 duplicates, 0 nulls, 0 rule breaks on VAT/total/income checks. Gross margin % is one constant (~4.76% = 5/105) and is hidden from executive KPIs. This file cannot support loyalty ROI, real margin ranking, forecasting, or national expansion decisions.
 
 ---
 
