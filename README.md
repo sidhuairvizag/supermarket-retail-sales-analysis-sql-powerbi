@@ -27,7 +27,7 @@ Business questions covered:
 - What can this sample not support?
 
 --------------------------------------------------------------------------------
-2. Tech stack
+## 2. Tech stack
 --------------------------------------------------------------------------------
 
 - MySQL 8: load, quality checks, feature engineering, analysis queries
@@ -35,7 +35,7 @@ Business questions covered:
 - CSV source: supermarket_sales_2019.csv
   
 --------------------------------------------------------------------------------
-3. Repository structure
+## 3. Repository structure
 --------------------------------------------------------------------------------
 
 ```text
@@ -55,7 +55,7 @@ supermarket-retail-sales-analysis-sql-powerbi/
     └── Dashboard 5 Data Quality and Limits.jpg
 ```
 --------------------------------------------------------------------------------
-4. Dataset
+## 4. Dataset
 --------------------------------------------------------------------------------
 
 Rows: 1,000 invoices
@@ -72,7 +72,7 @@ Important limits:
 4. 3 stores and 1,000 invoices → small gaps are not a national strategy
 
 --------------------------------------------------------------------------------
-5. What was done in MySQL
+## 5. What was done in MySQL
 --------------------------------------------------------------------------------
 
 File: sql/supermarket_retail.sql
@@ -103,7 +103,7 @@ Analysis sections:
 - Portfolio questions with INSIGHT and ACTION comments
 
 --------------------------------------------------------------------------------
-6. What was done in Power BI
+## 6. What was done in Power BI
 --------------------------------------------------------------------------------
 
 File: power-bi/supermarket_retail.pbix
@@ -123,7 +123,7 @@ Dashboard pages:
 5. Data quality & limits — quality checklist, margin warning, explicit limits
 
 --------------------------------------------------------------------------------
-7. Key findings (sample)
+## 7. Key findings (sample)
 --------------------------------------------------------------------------------
 
 1. About 1,000 invoices, about $323K revenue, AOV about $323, average rating about 6.97 for the quarter.
@@ -135,7 +135,7 @@ Dashboard pages:
 7. Weekdays drive volume; weekends show higher AOV — do not compare on revenue alone.
 
 --------------------------------------------------------------------------------
-8. Dashboard previews
+## 8. Dashboard previews
 --------------------------------------------------------------------------------
 
 Page 1 — Executive
@@ -154,7 +154,7 @@ Page 5 — Data quality and limits
 ![Dashboard 5](dashboard-images/Dashboard%205%20Data%20Quality%20and%20Limits.jpg)
 
 --------------------------------------------------------------------------------
-9. How to run
+## 9. How to run
 --------------------------------------------------------------------------------
 
 MySQL:
@@ -170,7 +170,7 @@ Power BI:
 3. Refresh and review the five report pages.
 
 --------------------------------------------------------------------------------
-10. Skills demonstrated
+## 10. Skills demonstrated
 --------------------------------------------------------------------------------
 
 - SQL data profiling and business-rule validation
@@ -181,7 +181,7 @@ Power BI:
 - Explicit communication of data limits and risk
 
 --------------------------------------------------------------------------------
-11. Disclaimer
+## 11. Disclaimer
 --------------------------------------------------------------------------------
 
 This project uses a public supermarket transaction sample.
@@ -189,7 +189,7 @@ It is intended to demonstrate analysis process and communication quality for ent
 Findings apply only to this 3-month, 3-branch sample and should not be treated as company strategy recommendations.
 
 --------------------------------------------------------------------------------
-12. Author
+## 12. Author
 --------------------------------------------------------------------------------
 
 GitHub: https://github.com/sidhuairvizag
