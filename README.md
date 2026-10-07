@@ -146,9 +146,7 @@ Dashboard pages:
 
 ---
 
-## 8. Dashboard previews
-
-## 8. Dashboard
+## 8. Dashboard Focus
 
 Filters on every page: Date, City, Product Line, Customer Type, Payment Method.  
 Screenshots: `bi dashboard analysis images/`. Interactive file: `bi analysis/supermarket_retail.pbix`.
