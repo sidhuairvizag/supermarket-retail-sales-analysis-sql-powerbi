@@ -134,7 +134,7 @@ Dashboard pages:
 
 ---
 
-## 7. Key findings (sample)
+## 7. Key Findings (sample)
 
 1. ~1,000 invoices, ~$323K revenue, AOV ~$323, avg rating ~6.97 for the quarter.
 2. February is weaker on volume, not proof of permanent demand collapse.
@@ -151,19 +151,19 @@ Dashboard pages:
 Filters on every page: Date, City, Product Line, Customer Type, Payment Method.  
 Screenshots: `bi dashboard analysis images/`. Interactive file: `bi analysis/supermarket_retail.pbix`.
 
-### Page 1 — Executive overview
+### Page 1 — Executive Overview
 KPI scorecards, revenue by month/city/product/payment, priority decisions.
 About 1,000 invoices and ~$323K revenue in the quarter. AOV ~$323, average rating ~6.97. February is the soft month on volume. Naypyitaw is only slightly ahead; do not redesign the store network from this sample.
 
-### Page 2 — Product performance and rating
+### Page 2 — Product Performance and Rating
 Revenue vs rating by product line, product × city matrix, rating watch list.
 Food and beverages is strong on money and rating. Home and lifestyle has meaningful sales but the weakest rating (~6.84). Start quality checks there (stock, wait time, returns) before any price cut. Do not delist Health and beauty only because revenue is lowest; gaps across lines are small.
 
-### Page 3 — Customers and payments
+### Page 3 — Customers and Payments
 Member vs Normal comparison, monthly revenue by customer type, payment mix by city.
 Member 501 vs Normal 499 invoices. Member AOV is only slightly higher. Both groups follow the same February dip, so treat February as store-wide demand, not a loyalty issue. Cash, Ewallet, and Credit card are all used in every city — keep all three tenders. No customer ID, so no retention model.
 
-### Page 4 — Time and operations
+### Page 4 — Time and Operations
 Revenue by hour, weekday vs weekend, day × time traffic grid.
 Revenue peaks around 19:00 and softens after 20:00. Cover 18:00–20:00 first. Weekdays drive total volume; weekends show higher AOV (~$339 vs ~$316). Do not compare weekend vs weekday on revenue alone.
 
