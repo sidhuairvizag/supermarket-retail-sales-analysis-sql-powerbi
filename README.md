@@ -135,26 +135,7 @@ Dashboard pages:
 7. Weekdays drive volume; weekends show higher AOV — do not compare on revenue alone.
 
 --------------------------------------------------------------------------------
-## 8. Dashboard previews
---------------------------------------------------------------------------------
-
-Page 1 — Executive
-![Dashboard 1](dashboard-images/Dashboard%201%20Supermarket%20Retail%20Performance.jpg)
-
-Page 2 — Product and rating
-![Dashboard 2](dashboard-images/Dashboard%202%20Product%20Performance%20and%20Rating.jpg)
-
-Page 3 — Customers and payments
-![Dashboard 3](dashboard-images/Dashboard%203%20Customers%20and%20Payments.jpg)
-
-Page 4 — Time and operations
-![Dashboard 4](dashboard-images/Dashboard%204%20Time%20and%20Operations.jpg)
-
-Page 5 — Data quality and limits
-![Dashboard 5](dashboard-images/Dashboard%205%20Data%20Quality%20and%20Limits.jpg)
-
---------------------------------------------------------------------------------
-## 9. How to run
+## 8. How to run
 --------------------------------------------------------------------------------
 
 MySQL:
@@ -170,7 +151,7 @@ Power BI:
 3. Refresh and review the five report pages.
 
 --------------------------------------------------------------------------------
-## 10. Skills demonstrated
+## 9. Skills demonstrated
 --------------------------------------------------------------------------------
 
 - SQL data profiling and business-rule validation
@@ -181,7 +162,7 @@ Power BI:
 - Explicit communication of data limits and risk
 
 --------------------------------------------------------------------------------
-## 11. Disclaimer
+## 10. Disclaimer
 --------------------------------------------------------------------------------
 
 This project uses a public supermarket transaction sample.
@@ -189,7 +170,7 @@ It is intended to demonstrate analysis process and communication quality for ent
 Findings apply only to this 3-month, 3-branch sample and should not be treated as company strategy recommendations.
 
 --------------------------------------------------------------------------------
-## 12. Author
+## 11. Author
 --------------------------------------------------------------------------------
 
 GitHub: https://github.com/sidhuairvizag
