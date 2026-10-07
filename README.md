@@ -25,7 +25,7 @@ Business questions covered:
 - Is Member clearly better than Normal?
 - When is peak demand, and where should extra staff go?
 - What can this sample not support?
----
+
 --------------------------------------------------------------------------------
 2. Tech stack
 --------------------------------------------------------------------------------
@@ -33,11 +33,12 @@ Business questions covered:
 - MySQL 8: load, quality checks, feature engineering, analysis queries
 - Power BI: Date table, measures, 5 dashboard pages
 - CSV source: supermarket_sales_2019.csv
----
+  
 --------------------------------------------------------------------------------
 3. Repository structure
 --------------------------------------------------------------------------------
 
+```text
 supermarket-retail-sales-analysis-sql-powerbi/
 ├── README.md
 ├── data/
@@ -52,7 +53,7 @@ supermarket-retail-sales-analysis-sql-powerbi/
     ├── Dashboard 3 Customers and Payments.jpg
     ├── Dashboard 4 Time and Operations.jpg
     └── Dashboard 5 Data Quality and Limits.jpg
-
+```
 --------------------------------------------------------------------------------
 4. Dataset
 --------------------------------------------------------------------------------
