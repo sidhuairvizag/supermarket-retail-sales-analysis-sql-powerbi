@@ -40,6 +40,7 @@ Business questions covered:
 
 ## 3. Repository structure
 
+```text
 supermarket-retail-sales-analysis-sql-powerbi/
 ├── README.md
 ├── data/
@@ -54,6 +55,7 @@ supermarket-retail-sales-analysis-sql-powerbi/
     ├── Dashboard 3 Customers and Payments.jpg
     ├── Dashboard 4 Time and Operations.jpg
     └── Dashboard 5 Data Quality and Limits.jpg
+```
 
 If your local folders still use older names (mysql workbench, bi analysis, etc.), rename them to match the layout above before sharing the repo.
 
