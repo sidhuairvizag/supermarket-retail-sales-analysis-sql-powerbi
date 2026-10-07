@@ -8,7 +8,7 @@ Scope note: This is a public sample, not Amazon (or any company) production data
 
 ---
 
-## 1. Project overview
+## 1. Project Overview
 
 This project follows a full analyst workflow:
 
@@ -28,7 +28,7 @@ Business questions covered:
 
 ---
 
-## 2. Tech stack
+## 2. Tech Stack
 
 | Tool | Use |
 |---|---|
@@ -38,7 +38,7 @@ Business questions covered:
 
 ---
 
-## 3. Repository structure
+## 3. Repository Structure
 
 ```text
 supermarket-retail-sales-analysis-sql-powerbi/
@@ -189,7 +189,7 @@ Quality checklist, margin warning, dataset limits.
 
 ---
 
-## 10. Skills demonstrated
+## 10. Skills Demonstrated
 
 - SQL data profiling and business-rule validation
 - Feature engineering for time and basket analysis
